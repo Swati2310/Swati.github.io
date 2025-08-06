@@ -1,4 +1,4 @@
-Project URL : swati2310.github.io
+Project URL : https://swati2310.github.io/
 
 If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
 
